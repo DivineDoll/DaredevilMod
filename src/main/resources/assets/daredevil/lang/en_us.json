@@ -1,6 +1,16 @@
 {
   "key.daredevil.toggle_radar": "Toggle radar sense",
+  "key.daredevil.throw": "Throw baton",
+  "key.daredevil.grapple": "Rope (swing)",
+  "key.daredevil.agility": "Agility",
   "category.daredevil": "Daredevil",
   "hud.daredevil.radar": "RADAR SENSE",
-  "power.daredevil.daredevil": "Daredevil"
+  "power.daredevil.daredevil": "Daredevil",
+  "item.daredevil.baton": "Daredevil's Baton",
+  "entity.daredevil.baton": "Thrown Baton",
+  "msg.daredevil.agility_on": "Agility on",
+  "msg.daredevil.agility_off": "Agility off",
+  "msg.daredevil.grapple_on": "Rope attached",
+  "msg.daredevil.grapple_off": "Rope released",
+  "msg.daredevil.grapple_miss": "Nothing to grab"
 }

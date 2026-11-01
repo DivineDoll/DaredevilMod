@@ -3,11 +3,12 @@
   "id": "daredevil",
   "version": "${version}",
   "name": "Daredevil",
-  "description": "Sentido radar de Daredevil siempre activo, estilo Marvel Rivals, con poder de Palladium.",
+  "description": "Sentido radar de Daredevil siempre activo, estilo Marvel Rivals, con bastones, cuerda y agilidad.",
   "authors": ["DivineDoll"],
   "license": "All-Rights-Reserved",
   "environment": "*",
   "entrypoints": {
+    "main": ["com.divinedoll.daredevil.Daredevil"],
     "client": ["com.divinedoll.daredevil.DaredevilClient"]
   },
   "accessWidener": "daredevil.accesswidener",
