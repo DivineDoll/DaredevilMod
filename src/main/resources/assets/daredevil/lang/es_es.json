@@ -1,16 +1,6 @@
 {
   "key.daredevil.toggle_radar": "Activar/desactivar sentido radar",
-  "key.daredevil.throw": "Lanzar bastón",
-  "key.daredevil.grapple": "Cuerda (balancearte)",
-  "key.daredevil.agility": "Agilidad",
   "category.daredevil": "Daredevil",
   "hud.daredevil.radar": "SENTIDO RADAR",
-  "power.daredevil.daredevil": "Daredevil",
-  "item.daredevil.baton": "Bastón de Daredevil",
-  "entity.daredevil.baton": "Bastón lanzado",
-  "msg.daredevil.agility_on": "Agilidad activada",
-  "msg.daredevil.agility_off": "Agilidad desactivada",
-  "msg.daredevil.grapple_on": "Cuerda enganchada",
-  "msg.daredevil.grapple_off": "Cuerda suelta",
-  "msg.daredevil.grapple_miss": "No hay dónde engancharse"
+  "power.daredevil.daredevil": "Daredevil"
 }
