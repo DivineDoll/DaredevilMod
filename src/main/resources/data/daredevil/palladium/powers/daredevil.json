@@ -1,0 +1,9 @@
+{
+  "name": {
+    "translate": "power.daredevil.daredevil"
+  },
+  "background": "daredevil:textures/gui/power_bg.png",
+  "icon": "minecraft:red_dye",
+  "gui_display_type": "list",
+  "abilities": {}
+}
